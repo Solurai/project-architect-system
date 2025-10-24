@@ -45,8 +45,9 @@ Project Architect is a personal project management framework that uses:
 
 ## Links
 
-- **Notion Workspace:** [Add your Notion link]
-- **Google Drive:** [Add your Drive link]
+- **Notion Workspace:** https://www.notion.so/Project-Architect-Hub-29531ab4bf6d80ac8136c44bf929590e?source=copy_link
+- **Google Drive:** https://drive.google.com/drive/folders/1MDC2zG3nC6vf0Pno-R9C9O1A-qpanA4C
+- **Claude Project:** https://claude.ai/chat/5fb7c664-3681-48cf-8616-b7fc8fc0d612
 - **Documentation:** Coming soon
 
 ## Status
